@@ -1,0 +1,8 @@
+set nu!
+color blue
+set hlsearch
+set incsearch
+set autoindent
+set wildmenu
+set laststatus=2
+set cursorline
