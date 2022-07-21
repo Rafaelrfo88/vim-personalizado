@@ -1,3 +1,5 @@
+Configuracao que utilizo no vim para deixar personalizado
+
 set nu!
 color blue
 set hlsearch
