@@ -1,5 +1,3 @@
-Configuracao que utilizo no vim para deixar personalizado
-
 Para isso, basta criar um arquivo chamado .vimrc na home do seu usario e inserir os comandos, abaixo segue os comandos que utilizo.
 
 set nu!
