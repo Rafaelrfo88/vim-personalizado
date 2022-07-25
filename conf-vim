@@ -1,10 +1,10 @@
-Para isso, basta criar um arquivo chamado .vimrc na home do seu usario e inserir os comandos, abaixo segue os comandos que utilizo.
+Insira os comandos abaixo para habilitar novas funcionalidades, abaixo estão as que gosto de utilizar.
 
-set nu!
-color blue
-set hlsearch
-set incsearch
-set autoindent
-set wildmenu
-set laststatus=2
-set cursorline
+set nu!                 | deixa as linhas numeradas
+color blue              | altera a cor da página
+set hlsearch            |
+set incsearch           | colore a palavra ao realizar uma pesquisa com o /
+set autoindent          |
+set wildmenu            |
+set laststatus=2        | coloca um menu no rodapé 
+set cursorline          | coloca uma linha em toda a linha que está selecionada
